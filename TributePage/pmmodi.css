@@ -1,0 +1,20 @@
+#image
+{
+	width:50%;
+	margin:0px 25%;
+	height: 400px;
+}
+#header
+{
+	text-align: center;
+	size: 20px;
+	color: red;
+	border: none 2px;
+}
+.timeline
+{
+	margin-left: 25%;
+	line-height: 2;
+	font-weight: bold;
+	size: 20px;
+}
